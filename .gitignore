@@ -34,6 +34,7 @@ MANIFEST
 *.spec
 
 static/
+webDashboard/static/
 
 # Installer logs
 pip-log.txt
